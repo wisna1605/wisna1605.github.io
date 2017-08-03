@@ -1,0 +1,243 @@
+#content-header{
+	background-color:white;
+	text-align:center;
+	font-family:inherit;
+	color:black;
+	height:75%;
+	font-size: 17pt;
+}
+.row{ 
+list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+col-xs-2{
+	display: inline;
+    float: none;
+    font-family:inherit;
+    font-size: 12pt;
+	text-align: center;
+}
+
+.a-nav{
+	display: block;
+    padding: 7px;
+    background-color: #f2f2f2;
+    color:saddlebrown;
+    
+}
+
+.col-xs-2 .a-nav:hover{
+	background-color:#666666;
+    color:gold;
+}
+
+#ul-sidebar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.li-sidebar{
+    display: inline;
+    float: none;
+    font-family:inherit;
+    font-size: 12pt;
+	text-align: center;
+}
+
+.a-sidebar{
+    display: block;
+    padding: 7px;
+    background-color:#666666;
+    color:gold;
+    text-decoration: none;
+}
+
+.div-content-title{
+    font-family: sans-serif;
+	color:#666666;
+    font-size:13pt;
+   
+	
+}
+.div-content-promo{
+	font-family:serif;
+	color:black;
+    font-size: 25pt;
+	padding:20px;
+	display: block;
+	background-color:#f2f2f2;
+	margin-top:30;
+	font-weight: bold;
+	
+}
+
+.div-content-pemb{
+	font-family:serif;
+	color:black;
+    font-size: 13pt;
+	padding:20px;
+	display: block;
+	background-color:#f2f2f2;
+	margin-top:30;
+	font-weight: bold;
+	text-decoration: none;
+	margin: 20;
+}
+.div-content-brief{
+    font-family: sans-serif;
+	color:#666666;
+    font-size: 13pt;
+    font-weight: normal;
+    text-align: justify;
+}
+
+.div-content-index1{
+	font-family: sans-serif;
+	color:#666666;
+    font-size: 12pt;
+}
+
+.div-content-judul{
+	font-family:serif;
+	color:black;
+    font-size: 15pt;
+	padding:3px;
+	display: block;
+	margin-top:10;
+	font-weight: bold;
+}
+
+
+.div-content-judul1{
+	font-family:serif;
+	color:black;
+    font-size: 20pt;
+	padding:2px;
+	font-weight: bold;
+}
+	
+
+.li-sidebar .a-sidebar:hover {
+    background-color:#f2f2f2;
+    color:saddlebrown;
+}
+
+#img-sidebar-ads{
+    width: 200px;
+    height: 200px;
+	
+}
+
+.img-about{
+	width: 200px;
+    height: 200px;
+}
+
+#img-format-order{
+	width: 500px;
+    height: 400px;
+}
+
+#img-wisna{
+	width: 200px;
+    height: 250px
+}
+
+
+.img-testy{
+	width:250px;
+	height:330px;
+    margin-top: 30;
+	
+}
+
+
+
+#img-index{
+	text-decoration: none;
+	display: block;
+	list-style-type: none;
+    margin: 0;
+    display: inline;
+	
+	
+}
+
+.image-content{
+    width: 320px;
+    height: 200px;
+}
+
+#td-footer-content{
+	text-align: center;
+	background-color:goldenrod;
+	font-family:serif;
+	color:black;
+    font-size: 13pt;
+	padding:4px;
+    font-weight: bold;
+	
+}
+
+
+#copy-right{
+	font-size: 10pt;
+	text-align: center;
+	color: darkblue;
+}
+
+
+
+
+
+
+
+.height-half{
+    height: 50%;
+}
+
+
+
+
+.align-center{
+    text-align: center;
+}
+
+.align-right{
+    text-align: right;
+}
+
+
+.border-soft{
+    border-style:none;
+}
+
+.font-small{
+    font-size: 8pt;
+}
+
+.footer-middle{
+    padding: 8px;
+}
+
+.header-middle{
+    padding: 10px;
+}
+
+.content-padding{
+    padding: 15px;
+}
+
+.sub-content-padding{
+    padding: 50px;
+}
+
+
+
+
+
+
